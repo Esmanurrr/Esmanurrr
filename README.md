@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Esmanur Mazlum</h1>
 <h3 align="center">student of computer engineering</h3>
 
-- 🌱 I’m currently learning **Asp.Net Core**
+- 🌱 I’m diving into **Asp.Net Core**
 
 - 📫 How to reach me **esmanurmazlumm@gmail.com**
 
