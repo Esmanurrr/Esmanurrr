@@ -2,7 +2,7 @@
 <h3 align="center">Senior student of computer engineering</h3>
 
 - 🌱 I’m diving into **Asp.Net Core**
-- 👩🏻‍💻 I'm on **Frontend Bootcamp** now
+- 👩🏻‍💻 I'm on Software Development Internship now
 - 📫 How to reach me **esmanurmazlumm@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
