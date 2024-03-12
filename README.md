@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Esmanur Mazlum</h1>
 <h3 align="center">Senior student of computer engineering</h3>
 
-- 🌱 I’m diving into **Asp.Net Core**
+- 🌱 I’m on **Turkcell Gelecegi Yazanlar Frontend Bootcamp** now
+- 🔭 I'm currently learning React
 - 👩🏻‍💻 I'm Software Development Intern at Novartz IT now
 - 📫 How to reach me **esmanurmazlumm@gmail.com**
 
