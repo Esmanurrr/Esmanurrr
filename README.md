@@ -3,7 +3,6 @@
 
 - 🌱 I’m on **Turkcell Gelecegi Yazanlar Frontend Bootcamp** now
 - 🔭 I'm currently learning React
-- 👩🏻‍💻 I'm Software Development Intern at Novartz IT now
 - 📫 How to reach me **esmanurmazlumm@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
