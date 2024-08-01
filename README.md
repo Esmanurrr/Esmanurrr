@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Esmanur Mazlum</h1>
 <h3 align="center">Senior student of computer engineering</h3>
 
-- 🌱 I’m on **Turkcell Gelecegi Yazanlar Frontend Bootcamp** now
-- 🔭 I'm currently learning React
+- 🌱 I’m intern at **Atmosware** now
+- 🔭 I'm currently learning ReactJs/NextJs
 - 📫 How to reach me **esmanurmazlumm@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
