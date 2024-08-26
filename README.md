@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Esmanur Mazlum</h1>
-<h3 align="center">Senior student of computer engineering</h3>
+<h3 align="center">Passionate Frontend Developer</h3>
 
-- 🌱 I’m intern at **Atmosware** now
+- 🌱 I’m looking for job as Frontend Developer
 - 🔭 I'm currently learning ReactJs/NextJs
 - 📫 How to reach me **esmanurmazlumm@gmail.com**
 
